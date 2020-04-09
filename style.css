@@ -1,0 +1,44 @@
+li{
+    list-style: none; color: rgb(206, 55, 55); font-size: 2rem; display:  inline-block; margin:  10px;
+}
+.link1 {
+    border: rgb(206, 78, 78) 5px solid; display: inline-block;
+}
+a {
+    color: rgb(158, 26, 26); text-decoration-line: none;
+    text-shadow: black;
+
+}
+.ziv{
+ text-align: center;
+ font-size: 30px;
+ color: brown;
+
+}
+
+
+img{
+
+    margin: 20px;
+    width: 300px; height: 300px;
+    border: brown solid 5px;
+}
+.pic1{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.pic{
+    text-align: center;
+    display: block;
+}
+h1{
+    border-bottom: solid 5px rgb(138, 22, 22);
+    border-left: solid 5px rgb(138, 22, 22);
+   width: 500px;
+}
+p{
+    font-size: 30px;
+    color: rgb(138, 22, 22);
+}
